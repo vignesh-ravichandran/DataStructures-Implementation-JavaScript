@@ -13,7 +13,7 @@ Steps to run :
       
       to run usage of linked list , run the file usingLinkedList by 
 
-      node usingLinkedList 
+      node ./Usage/usingLinkedList.js 
 
  Data Structures Covered: 
 
